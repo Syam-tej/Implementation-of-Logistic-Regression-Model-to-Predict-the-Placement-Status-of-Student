@@ -66,7 +66,7 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-1.![4 1](https://user-images.githubusercontent.com/93427224/162664192-2ffc46e8-6541-4dde-beb7-b652337a19e6.jpg)
+## 1. ![4 1](https://user-images.githubusercontent.com/93427224/162664192-2ffc46e8-6541-4dde-beb7-b652337a19e6.jpg)
 2.![4 2](https://user-images.githubusercontent.com/93427224/162664205-42684eb1-3478-4560-abe5-1840426511e6.jpg)
 3.![4 3](https://user-images.githubusercontent.com/93427224/162664220-1b86d14f-34e3-474f-b2ad-53cb0fb79eee.jpg)
 4.![4 4](https://user-images.githubusercontent.com/93427224/162664237-fcf3d0e4-40a6-4c70-939d-96f50f1c0468.jpg)
