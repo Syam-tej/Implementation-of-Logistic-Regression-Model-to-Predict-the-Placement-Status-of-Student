@@ -66,7 +66,15 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+1.![4 1](https://user-images.githubusercontent.com/93427224/162664192-2ffc46e8-6541-4dde-beb7-b652337a19e6.jpg)
+2.![4 2](https://user-images.githubusercontent.com/93427224/162664205-42684eb1-3478-4560-abe5-1840426511e6.jpg)
+3.![4 3](https://user-images.githubusercontent.com/93427224/162664220-1b86d14f-34e3-474f-b2ad-53cb0fb79eee.jpg)
+4.![4 4](https://user-images.githubusercontent.com/93427224/162664237-fcf3d0e4-40a6-4c70-939d-96f50f1c0468.jpg)
+5.![4 5](https://user-images.githubusercontent.com/93427224/162664503-1ed36d47-8e21-4f64-9f57-dd7cd30ac1b2.jpg)
+6.![4 6](https://user-images.githubusercontent.com/93427224/162664515-0ed26301-ab56-4a02-82f5-982d2593e23a.jpg)
+7.![4 7](https://user-images.githubusercontent.com/93427224/162664533-dba4df99-d98b-4d4a-81bc-424bf07f9c35.jpg)
+8.![4 8](https://user-images.githubusercontent.com/93427224/162664545-5d76b43c-8d5d-416b-bb0f-4acc3581c414.jpg)
+
 
 
 ## Result:
